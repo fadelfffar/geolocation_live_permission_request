@@ -5,6 +5,8 @@ import 'package:baseflow_plugin_template/baseflow_plugin_template.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 
+// Project code from (https://github.com/baseflow/flutter-geolocator/blob/main/geolocator/example/lib/main.dart)
+
 /// Defines the main theme color.
 final MaterialColor themeMaterialColor =
     BaseflowPluginExample.createMaterialColor(
